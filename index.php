@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>CMRU SHOWGRADE</title>
+    <title>PROJECT S</title>
 </head>
 <body>
 	<br/>
@@ -21,8 +21,8 @@
         <br/>
         *Don't use for immoral.
         <br/>
-        @Darkskystarsh1nes.
+        @darkskystarsh1nes.
     </center>
-    
+
 </body>
 </html>
